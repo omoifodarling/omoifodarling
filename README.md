@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Software Engineer & Data Scientist | Atlanta, GA
+# 👨‍💻 Senior Software Engineer & Data Scientist
 
 
 🚀 Passionate about building scalable, efficient, and innovative solutions that bridge the gap between technology and real-world challenges. With over 7+ years of experience, I specialize in:
@@ -10,7 +10,7 @@
 I harness the power of LLM, machine learning and big data to deliver insights and predictive models, with a strong focus on optimization for edge devices.
 
 ### 💼 Industry Experience:
-I’ve worked with leading companies like Solibri Inc., GIM Robotics Oy, and DELL Inc., developing systems that drive efficiency and performance.
+I’ve worked with leading companies like Dell Inc, Solibri Inc., Elisa Oyj, and GIM Robotics Oy, developing systems that drive efficiency and performance.
 
 ### 📚 Education:
 - Advanced degrees in Computer Science & Software Engineering from Kennesaw State University & Aalto University.
